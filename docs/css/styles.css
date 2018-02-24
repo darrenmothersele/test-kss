@@ -1,0 +1,7 @@
+.btn {
+  border: 2px solid #fff;
+  background: #fff;
+  padding: 10px;
+  border-radius: 20px; }
+  .btn--warning {
+    border: 2px solid black; }

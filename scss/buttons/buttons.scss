@@ -1,0 +1,18 @@
+// Buttons
+//
+// A majority of buttons in the site are built from the same base class.
+//
+// Markup: buttons.hbs
+//
+// .btn--warning   - Use this class to indicate that the button is the primary
+//
+// Style guide: 1.2
+.btn {
+  border: 2px solid #fff;
+  background: #fff;
+  padding: 10px;
+  border-radius: 20px;
+  &--warning {
+    border: 2px solid black;
+  }
+}
